@@ -45,4 +45,5 @@ for performing election audits from local to national races. I have included two
       number of electoral votes needed to win a state.
 
 end of analysis
+Peter Miller
 
